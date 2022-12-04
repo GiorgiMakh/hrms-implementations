@@ -1,0 +1,30 @@
+{
+  "name": "hrms",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "connect-flash": "^0.1.1",
+    "connect-mongo": "^1.3.2",
+    "cookie-parser": "~1.4.3",
+    "csurf": "^1.9.0",
+    "debug": "~4.1.1",
+    "ejs": "~2.5.2",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "express-validator": "^2.21.0",
+    "html-pdf": "^3.0.1",
+    "moment": "^2.27.0",
+    "mongodb": "^3.7.3",
+    "mongoose": "^5.12.11",
+    "mongoose-type-email": "^1.0.2",
+    "morgan": "^1.10.0",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
+    "serve-favicon": "^2.5.0"
+  }
+}
