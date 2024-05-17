@@ -33,3 +33,7 @@ He/She will be able to generate pay slip for each employee, set bonus for employ
 1. Now to use the system, open any browser.
 1. In address bar write localhost:3000, where 3000 is the port this application uses.
 1. Browser will redirect to the home page of the application.
+
+----
+
+ <p align="center"><a href='https://ko-fi.com/giorgimakh' target='_blank'><img height='42' style='border:0px;height:42px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></p>
